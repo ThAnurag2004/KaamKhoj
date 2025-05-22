@@ -7,9 +7,11 @@ function Header() {
   return (
     <>
       <nav className='py-4 flex justify-between items-center'>
-        <Link>
-          <h1 className='text-3xl p-4'>कामखोज</h1>
+        <Link to="/">
+          <img src="/logo.svg" className="h-15" alt="kk logo" />
         </Link>
+
+
         {/* <Button variant="outline">Login</Button> */}
 
           <SignedOut>
