@@ -31,7 +31,7 @@ function Footer() {
     </div>
     {/* Adjust bottom section padding and text size */}
     <div className='w-full text-white mt-3 md:mt-5 border-t border-white px-4 md:px-0'>
-        <h1 className='text-xl md:text-2xl font-bold mt-4 text-center lg:text-center md:text-left'>Made by KaaryaKhoj</h1>
+        <h1 className='text-xl md:text-2xl font-bold mt-4 text-center lg:text-center md:text-left'>made with 🧡 by KaaryaKhoj</h1>
     </div>
     </>
   )

@@ -18,12 +18,12 @@ function LandingPage() {
         </p>
       </section>
       <div className="flex gap-6 justify-center">
-        <Link to="/jobs">
+        <Link to="/Job">
           <Button variant="blue" size="xl">
             Find Jobs
           </Button>
         </Link>
-        <Link to="/post-job">
+        <Link to="/PostJob">
           <Button variant="destructive" size="xl">
             Post Jobs
           </Button>

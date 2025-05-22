@@ -5,7 +5,7 @@ const SocialMediaCard = () => {
   return (
     <div className="max-w-xs mx-auto p-6 rounded-2xl shadow-lg dark:text-white transition duration-300">
       <h1 className='text-2xl md:text-3xl font-bold mb-6'>Follow Us</h1>
-      <div className="flex flex-col items-center space-y-6 text-3xl">
+      <div className="flex flex-row gap-3 justify-center items-baseline space-y-6 text-3xl">
         <a
           href="https://twitter.com/"
           target="_blank"
